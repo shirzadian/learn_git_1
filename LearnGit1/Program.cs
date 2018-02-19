@@ -15,6 +15,7 @@ namespace LearnGit1
         static void Main()
         {
             //this is test
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
